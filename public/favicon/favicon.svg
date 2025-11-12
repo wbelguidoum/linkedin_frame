@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48"><svg width="48" height="48" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="12" cy="12" r="10" stroke="#4f46e5" stroke-width="2"></circle>
+  <path d="M19.364 4.636A10 10 0 0 0 4.636 19.364" stroke="white" stroke-width="2.5" stroke-linecap="round"></path>
+  <path d="M12 9a3 3 0 1 1 0 6a3 3 0 0 1 0-6Z" fill="#4f46e5"></path>
+</svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
+@media (prefers-color-scheme: dark) { :root { filter: none; } }
+</style></svg>
